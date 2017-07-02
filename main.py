@@ -1,5 +1,5 @@
 from microsoftbotframework import MsBot
-from tasks import echo_response
+from tasks import *
 import os
 
 bot = MsBot(port=int(os.environ['PORT']))
