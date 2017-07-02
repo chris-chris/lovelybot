@@ -1,2 +1,3 @@
 Flask<1
-microsoftbotframework==0.2.2
+azure==0.8.4
+microsoftbotframework
